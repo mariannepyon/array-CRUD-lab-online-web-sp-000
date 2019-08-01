@@ -18,8 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   array = ["Sarah", "Sally", "Dana", "Connie"]
-  Connie_friend = array.pop
-  puts array.inspect
+  connie_friend = array.pop
   puts connie_friend
 end
 end
