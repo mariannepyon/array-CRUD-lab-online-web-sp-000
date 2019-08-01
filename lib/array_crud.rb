@@ -10,7 +10,6 @@ def add_element_to_end_of_array(array, element)
   array = ["Sarah", "Sally", "Dana", "Connie"]
   element = "Maggie"
   array.push(element)
-  puts array.inspect
 end
 
 def add_element_to_start_of_array(array, element)
